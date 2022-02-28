@@ -1,0 +1,16 @@
+
+footer {
+  padding-top: 40px;
+  padding-bottom: 10px;
+  background: var(--gdt-btn-ylw);
+  text-align: center;
+  color: #000;
+}
+footer img{
+  width: 3rem;
+}
+footer img:hover{
+  filter: invert(100%) contrast(39%) brightness(135%);
+}
+
+
