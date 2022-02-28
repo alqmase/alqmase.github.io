@@ -81,7 +81,7 @@ html::-webkit-scrollbar {
 }
 
 html::-webkit-scrollbar-track {
-  background: var(--clr-vhrd-blk);
+  background: var(--clr-sft-blk);
 }
 
 html::-webkit-scrollbar-thumb {
@@ -131,9 +131,6 @@ img {
 @media (max-width: 1200px) {
   :root {
     --fs-h1: 4rem;
-  }
-  html::-webkit-scrollbar-track {
-    background: var(--clr-sft-blk);
   }
 }
 

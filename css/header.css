@@ -117,6 +117,12 @@
   font-weight: bold;
 }
 
+nav li.active a{
+  background: var(--gdt-btn-ylw);
+  color: var(--clr-hrd-blk);
+  font-weight: bold;
+}
+
 @media (min-width: 1200px) {
   .menu-icon {
     display: none;
